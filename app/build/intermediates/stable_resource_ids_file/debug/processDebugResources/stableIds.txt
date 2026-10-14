@@ -1,0 +1,1 @@
+cl.duoc.fotomotion:xml/file_paths = 0x7f010000

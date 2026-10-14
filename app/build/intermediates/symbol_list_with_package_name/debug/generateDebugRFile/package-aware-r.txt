@@ -1,0 +1,2 @@
+cl.duoc.fotomotion
+xml file_paths
